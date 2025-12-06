@@ -1,4 +1,3 @@
-# python1010 
-msa
-fdg
-ad
+10
+10
+10
